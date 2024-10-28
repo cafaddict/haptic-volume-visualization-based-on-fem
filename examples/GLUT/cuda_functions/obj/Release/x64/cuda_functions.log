@@ -1,0 +1,5 @@
+﻿  voxel_texture.cpp
+d:\research\voxelhaptics\chai3d-3.1.1\examples\glut\cuda_functions\voxel_texture.cpp(762): warning C4101: 'dst_d': unreferenced local variable
+d:\research\voxelhaptics\chai3d-3.1.1\examples\glut\cuda_functions\voxel_texture.cpp(761): warning C4101: 'src_d': unreferenced local variable
+     Creating library ../../../bin/win-x64\cuda_functions.lib and object ../../../bin/win-x64\cuda_functions.exp
+  cuda_functions.vcxproj -> D:\research\VoxelHaptics\chai3d-3.1.1\examples\GLUT\cuda_functions\../../../bin/win-x64\cuda_functions.exe
